@@ -8,4 +8,4 @@ end
 
 
 array1 = [1,2,3,4,5,]
-square_array(array1)
+print square_array(array1)
